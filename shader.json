@@ -2,8 +2,8 @@
   "ver": "0.1",
   "info": {
     "id": "",
-    "name": "",
-    "description": "",
+    "name": "Aditya' Shader",
+    "description": "This shader shows the mix of colors and how it represents from ocean to Sun",
     "tags": []
   },
   "renderpass": [
